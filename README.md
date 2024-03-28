@@ -1,7 +1,7 @@
 # ToneLi-Evaluating-Retrival-LLM-in-Biomedical-Domain
 
 
-dataset: 
+## Dataset: 
 
 **triple extraction**:
 
@@ -26,3 +26,6 @@ dataset:
 (MedQA-USMLE)[https://paperswithcode.com/paper/what-disease-does-this-patient-have-a-large]
 (MedMCQA)[https://medmcqa.github.io/)
 现在又加了一个: MMLU下面的几个子类：https://paperswithcode.com/dataset/mmlu，Clinical Knowledge， College Medicine,...
+
+## Model
+[Uprise](https://github.com/microsoft/LMOps)
