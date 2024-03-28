@@ -3,25 +3,25 @@
 
 dataset: 
 
-** mtriple extraction:
+**triple extraction**:
 
 [DDI, Chemprot, GMCIHT](https://github.com/ToneLi/PETAILOR-for-bio-triple-extraction/tree/main/dataset)
 
-** relation extraction:  
+**relation extraction**:  
 
 [DDI, Chemprot, GMCIHT](https://github.com/ToneLi/PETAILOR-for-bio-triple-extraction/tree/main/dataset)
 [Semed](https://github.com/ToneLi/SemMedDB/tree/main/data_progress/final_data)
 
-link prediction:
+**link prediction**:
 
 [AZ]()
 [UMLS]()
 
-classification:
+** classification **:
 [ade-corpus-2](https://huggingface.co/datasets/ade_corpus_v2)
 [Semed](https://github.com/ToneLi/SemMedDB/tree/main/data_progress/final_data)
 
-QA:
+**QA**:
 [PubMedQA](https://pubmedqa.github.io/)
 (MedQA-USMLE)[https://paperswithcode.com/paper/what-disease-does-this-patient-have-a-large]
 (MedMCQA)[https://medmcqa.github.io/)
