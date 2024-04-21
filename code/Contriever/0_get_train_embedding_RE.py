@@ -15,12 +15,6 @@ tokenizer = AutoTokenizer.from_pretrained('facebook/contriever')
 model = AutoModel.from_pretrained('facebook/contriever')
 
 
-# Apply tokenizer
-inputs = tokenizer(sentences, padding=True, truncation=True, return_tensors='pt')
-
-# Compute token embeddings
-outputs = model(**inputs)
-
 # Mean pooling
 
 # Apply tokenizer
