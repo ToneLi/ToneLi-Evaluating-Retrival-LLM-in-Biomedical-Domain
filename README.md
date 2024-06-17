@@ -25,7 +25,7 @@
 [PubMedQA](https://pubmedqa.github.io/)
 (MedQA-USMLE)[https://paperswithcode.com/paper/what-disease-does-this-patient-have-a-large]
 (MedMCQA)[https://medmcqa.github.io/)
-现在又加了一个: MMLU下面的几个子类：https://paperswithcode.com/dataset/mmlu，Clinical Knowledge， College Medicine,...
+another example in MMLU：https://paperswithcode.com/dataset/mmlu，Clinical Knowledge， College Medicine,...
 
 ## Model
 [Uprise](https://github.com/microsoft/LMOps)
